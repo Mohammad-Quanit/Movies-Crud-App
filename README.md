@@ -1,1 +1,1 @@
-# Movies-Crud-App
+# Simple Movies CRUD application on golang using mux framework
